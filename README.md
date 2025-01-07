@@ -58,5 +58,5 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
 If you have any questions or feedback, please feel free to reach out.
 
 - **Email:** pradeep02012005@gmail.com
-- **GitHub:** [vishalbharath](https://github.com/pradeepan02)
+- **GitHub:** [Pradeepan S](https://github.com/pradeepan02)
 
