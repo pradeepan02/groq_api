@@ -57,6 +57,6 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
 
 If you have any questions or feedback, please feel free to reach out.
 
-- **Email:** vishalbharathonly@gmail.com
-- **GitHub:** [vishalbharath](https://github.com/vishalbharath)
+- **Email:** pradeep02012005@gmail.com
+- **GitHub:** [vishalbharath](https://github.com/pradeepan02)
 
